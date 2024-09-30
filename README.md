@@ -2,7 +2,7 @@
 
 Python kurs - StenSaxPåse
 
-Starta spelet med att skriva in `py play.py`
+Starta spelet med att skriva in `py game.py`
 
 Spelet startar och ger användaren samt datorn 2 kort var, där dina kort visas samt datorns första.
 
